@@ -10,5 +10,7 @@ To get started:
 $ npm i dot-graph-builder
 ```
 
+**NOTE** I'm using this library to create class diagrams for Waterline models including their relationships.
+
 ## License
-® License MIT by goliatone
+® License 2019 MIT by goliatone
