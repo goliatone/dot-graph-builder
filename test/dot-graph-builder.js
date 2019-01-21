@@ -3,9 +3,9 @@
 const test = require('tape');
 const sinon = require('sinon');
 
-const Module = require('../lib')['dot-graph-builder'];
+const Graph = require('..').Graph;
 
-test('Module should be bootstraped OK', (t)=>{
-    t.ok(Module());
+test('Module should be bootstraped OK', (t) => {
+    t.ok(new Graph());
     t.end();
 });
