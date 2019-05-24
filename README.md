@@ -10,7 +10,15 @@ To get started:
 $ npm i dot-graph-builder
 ```
 
+Install dependency on mac using Homebrew:
+
+```
+$ brew install graphviz
+```
+
 **NOTE** I'm using this library to create class diagrams for Waterline models including their relationships.
+
+
 
 ## License
 ® License 2019 MIT by goliatone
